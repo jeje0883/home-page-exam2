@@ -1,0 +1,93 @@
+/* Navbar Styling */
+.custom-navbar {
+  background-color: #003851;
+}
+
+.nav-link {
+  color: #bfd2d9 !important;
+}
+
+.navbar-brand {
+  color: #bfd2d9 !important;
+}
+
+/* Button Styling */
+.btn-primary {
+  background-color: #22646e;
+  border-color: #22646e;
+}
+
+.btn-secondary {
+  background-color: #3b89ac;
+  border-color: #3b89ac;
+}
+
+.btn-primary:hover, .btn-secondary:hover {
+  background-color: #002535;
+  border-color: #002535;
+}
+
+/* Section Headings */
+h2, h4 {
+  color: #002535;
+}
+
+/* Form Styling */
+form input, form textarea {
+  border-color: #22646e;
+}
+
+form button {
+  background-color: #22646e;
+  border-color: #22646e;
+}
+
+form button:hover {
+  background-color: #003851;
+  border-color: #003851;
+}
+
+/* Card Styling */
+.card {
+  border: 1px solid #bfd2d9;
+}
+
+.card-title {
+  color: #003851;
+}
+
+.card-body a {
+  background-color: #3b89ac;
+  border-color: #3b89ac;
+}
+
+.card-body a:hover {
+  background-color: #22646e;
+  border-color: #22646e;
+}
+
+/* Additional Spacing for Sections */
+section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+/* Resource Links */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 10px 0;
+}
+
+ul li a {
+  color: #003851;
+  text-decoration: underline;
+}
+
+ul li a:hover {
+  color: #22646e;
+  text-decoration: none;
+}
